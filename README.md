@@ -11,3 +11,4 @@
 
 To count your repository stats: https://github.com/XAMPPRocky/tokei
 https://gist.github.com/ChristopherA/a579274536aab36ea9966f301ff14f3f
+brew install font-caskaydia-cove-nerd-font
